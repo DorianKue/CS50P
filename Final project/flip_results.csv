@@ -1,0 +1,4 @@
+total_flips,heads_count,heads_percentage,tails_count,tails_percentage,probability_percent
+1,0,0.0,1,100.0,50.0
+1000,484,48.4,516,51.6,1.51
+1000,489,48.9,511,51.1,1.98
