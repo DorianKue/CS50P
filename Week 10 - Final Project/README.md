@@ -1,5 +1,4 @@
 # Coin Toss Simulator
-#### Video Demo:  <[https://www.youtube.com/watch?v=C0ler-UMI2U]>
 #### Description:
 
 This is my final project for the course "CS50’s Introduction to Programming with Python".
